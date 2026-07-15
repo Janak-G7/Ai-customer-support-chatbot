@@ -75,18 +75,6 @@ Upload all 4 to your Upwork portfolio piece, plus the live Vercel URL.
 
 ---
 
-## Upwork Portfolio Description (Copy-Paste)
-
-> **Custom AI Support Chatbot for Coffee Brand**
->
-> Built an end-to-end AI customer-support chatbot that answers questions from a company's internal documents. Uses OpenAI GPT-4o mini for responses and text-embedding-3-small for semantic search over the knowledge base. Fully custom Next.js frontend with typing indicators, suggested questions, and mobile-responsive design.
->
-> **Tech:** Next.js 14 · TypeScript · OpenAI API · Vector embeddings · Tailwind CSS · Vercel
->
-> **What the client got:** A deployable chatbot that responds to customer questions 24/7 with accurate info sourced only from their docs — no hallucinations, no generic answers.
-
----
-
 ## Skill Tags (Top 5)
 
 1. Chatbot Development
@@ -102,8 +90,6 @@ Upload all 4 to your Upwork portfolio piece, plus the live Vercel URL.
 - OpenAI embeddings: ~$0.02 per 1M tokens (cheap)
 - GPT-4o mini: ~$0.15 per 1M input tokens
 - Vercel: free tier is enough for demo traffic
-
-**A demo like this costs less than $1/month to keep live.**
 
 ---
 
