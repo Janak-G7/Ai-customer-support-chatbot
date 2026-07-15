@@ -53,17 +53,6 @@ Open http://localhost:3000
 
 ---
 
-## Customizing for a Client Demo
-
-To make it look like a real client project:
-
-1. Open `lib/knowledge.ts` — replace the Acme Coffee docs with your client's FAQ/policies.
-2. Open `app/page.tsx` — change the header "Acme Coffee Assistant" to their brand name.
-3. Open `lib/rag.ts` — update the system prompt (line: "You are a helpful customer support assistant for...")
-4. Redeploy. Done.
-
----
-
 ## Portfolio Screenshots to Take
 
 1. **Homepage screenshot** — chatbot header + suggestion buttons visible
